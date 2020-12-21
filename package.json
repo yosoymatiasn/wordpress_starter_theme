@@ -1,0 +1,18 @@
+{
+  "name": "WP_Starter_Theme",
+  "version": "1.0.0",
+  "description": "Wordpress starter theme with gulp, sass, autoprefixer, browsersync..",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Agnese",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.8.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "2.3.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.0.0"
+  }
+}
